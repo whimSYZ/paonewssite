@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>consume on Pao News</title>
-    <link>https://example.com/categories/consume/</link>
+    <link>https://paonews.netlify.app/categories/consume/</link>
     <description>Recent content in consume on Pao News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/categories/consume/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://paonews.netlify.app/categories/consume/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dong&#39;an Upgrade and reform!</title>
-      <link>https://example.com/blog/story-1/</link>
+      <link>https://paonews.netlify.app/blog/story-1/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/story-1/</guid>
+      <guid>https://paonews.netlify.app/blog/story-1/</guid>
       <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 1/Video/Story 1 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);  At the end of this year, the time-honored Dong’an Department Store located on Wangfujing Street will close temporarily for upgrading into a fashion selected shop with fashion theme blocks.
 The Dong’an Department Store, which was built in 1903, has a history of more than 100 years.</description>
     </item>

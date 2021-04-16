@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>technology on Pao News</title>
-    <link>https://example.com/categories/technology/</link>
+    <link>https://paonews.netlify.app/categories/technology/</link>
     <description>Recent content in technology on Pao News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://paonews.netlify.app/categories/technology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Long way</title>
-      <link>https://example.com/blog/story-4/</link>
+      <link>https://paonews.netlify.app/blog/story-4/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/story-4/</guid>
+      <guid>https://paonews.netlify.app/blog/story-4/</guid>
       <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 4/Video/Story 4 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);  The subway is an important part of urban rail transit in Beijing. And also, it’s the first choice for most people to travel. However, the transfer between Line Batong and Line One always brings about a lot of unnecessary trouble, especially during the peak traffic time.</description>
     </item>
     
     <item>
       <title>Is Physical Fitness test too much?</title>
-      <link>https://example.com/blog/story-6/</link>
+      <link>https://paonews.netlify.app/blog/story-6/</link>
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/story-6/</guid>
+      <guid>https://paonews.netlify.app/blog/story-6/</guid>
       <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 6/Video/Story 6 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);  Beijing, China&amp;ndash;In October 2020, all students from 2017 to 2020 of Communication University of China will receive the physical fitness test. The test consists of seven events: 800/1,000-meter-long run, standing long jump, pull-up/sit-up, sit and reach,50-meter sprint, height and weight (BMI), and vital capacity. The total score on the test is made up of the individual item scores weighted together.</description>
     </item>
     
     <item>
       <title>Racing through the dark</title>
-      <link>https://example.com/blog/story-3/</link>
+      <link>https://paonews.netlify.app/blog/story-3/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/story-3/</guid>
+      <guid>https://paonews.netlify.app/blog/story-3/</guid>
       <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 3/Video/Story 3 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);  At 6 a.m., in the Olympic Forest Park in Beijing, China, volunteers from “He Yajun Blind People Helping Organization” begin to guide blind people to run.
 “He Yajun Blind People Helping Organization” is a non-profit public service organization which is founded by a blind man named ‘He Yajun’ in 2015.</description>
     </item>
     
     <item>
       <title>Panjiayun Flea Crisis</title>
-      <link>https://example.com/blog/story-2/</link>
+      <link>https://paonews.netlify.app/blog/story-2/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/story-2/</guid>
+      <guid>https://paonews.netlify.app/blog/story-2/</guid>
       <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 2/Video/Story 2 Video.m4v&#34;, height: 360, width: 640, }); player.attachTo(playerElement);  In addition to the huge harm to people’s health, the 2019 novel coronavirus epidemic also has an enormous impact on the economy. Located on the Beijing Third Ring Road, Panjiayuan Flea Market has lost much foot traffic due to the epidemic, forcing many vendors to withdraw from the market and find other ways to earn a living.</description>
     </item>
     
     <item>
       <title>War on Plate</title>
-      <link>https://example.com/blog/story-5/</link>
+      <link>https://paonews.netlify.app/blog/story-5/</link>
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/story-5/</guid>
+      <guid>https://paonews.netlify.app/blog/story-5/</guid>
       <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 5/Video/Story 5 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);  Since August 2020, the “Clear the Plate Campaign” has been carried out in various forms (including online and offline) from all sectors of society in China. Promoting the spirit of frugality, the “Clear the Plate Campaign” hopes to alert and respond to the increasingly severe grain issue in China, also around the world.</description>
     </item>
     

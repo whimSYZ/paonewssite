@@ -3,387 +3,387 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/fr/blog/</loc>
+    <loc>https://paonews.netlify.app/fr/blog/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/blog/"
+                href="https://paonews.netlify.app/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/blog/"
+                href="https://paonews.netlify.app/fr/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/categories/</loc>
+    <loc>https://paonews.netlify.app/fr/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://paonews.netlify.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/categories/"
+                href="https://paonews.netlify.app/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/categories/"
+                href="https://paonews.netlify.app/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/categories/"
+                href="https://paonews.netlify.app/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/categories/"
+                href="https://paonews.netlify.app/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/categories/"
+                href="https://paonews.netlify.app/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/zh-tw/categories/"
+                href="https://paonews.netlify.app/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/categories/"
+                href="https://paonews.netlify.app/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://example.com/nl/categories/"
+                href="https://paonews.netlify.app/nl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="https://paonews.netlify.app/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/tags/css/</loc>
+    <loc>https://paonews.netlify.app/fr/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/css/"
+                href="https://paonews.netlify.app/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/css/"
+                href="https://paonews.netlify.app/fr/tags/css/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/blog/markdown-syntax/</loc>
+    <loc>https://paonews.netlify.app/fr/blog/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/blog/markdown-syntax/"
+                href="https://paonews.netlify.app/blog/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/blog/markdown-syntax/"
+                href="https://paonews.netlify.app/fr/blog/markdown-syntax/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/tags/html/</loc>
+    <loc>https://paonews.netlify.app/fr/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/html/"
+                href="https://paonews.netlify.app/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/html/"
+                href="https://paonews.netlify.app/fr/tags/html/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/</loc>
+    <loc>https://paonews.netlify.app/fr/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://paonews.netlify.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/"
+                href="https://paonews.netlify.app/pl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/"
+                href="https://paonews.netlify.app/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/"
+                href="https://paonews.netlify.app/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/"
+                href="https://paonews.netlify.app/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/"
+                href="https://paonews.netlify.app/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/zh-tw/"
+                href="https://paonews.netlify.app/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/"
+                href="https://paonews.netlify.app/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://example.com/nl/"
+                href="https://paonews.netlify.app/nl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://paonews.netlify.app/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/tags/markdown/</loc>
+    <loc>https://paonews.netlify.app/fr/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/markdown/"
+                href="https://paonews.netlify.app/tags/markdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/markdown/"
+                href="https://paonews.netlify.app/fr/tags/markdown/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/categories/syntax/</loc>
+    <loc>https://paonews.netlify.app/fr/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/syntax/"
+                href="https://paonews.netlify.app/categories/syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/syntax/"
+                href="https://paonews.netlify.app/fr/categories/syntax/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/tags/</loc>
+    <loc>https://paonews.netlify.app/fr/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://paonews.netlify.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/tags/"
+                href="https://paonews.netlify.app/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/"
+                href="https://paonews.netlify.app/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/tags/"
+                href="https://paonews.netlify.app/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://example.com/es/tags/"
+                href="https://paonews.netlify.app/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/zh-cn/tags/"
+                href="https://paonews.netlify.app/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://example.com/zh-tw/tags/"
+                href="https://paonews.netlify.app/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://example.com/ja/tags/"
+                href="https://paonews.netlify.app/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://example.com/nl/tags/"
+                href="https://paonews.netlify.app/nl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://paonews.netlify.app/fr/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/tags/themes/</loc>
+    <loc>https://paonews.netlify.app/fr/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/themes/"
+                href="https://paonews.netlify.app/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/themes/"
+                href="https://paonews.netlify.app/fr/tags/themes/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/categories/themes/</loc>
+    <loc>https://paonews.netlify.app/fr/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/themes/"
+                href="https://paonews.netlify.app/categories/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/themes/"
+                href="https://paonews.netlify.app/fr/categories/themes/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/blog/rich-content/</loc>
+    <loc>https://paonews.netlify.app/fr/blog/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/blog/rich-content/"
+                href="https://paonews.netlify.app/blog/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/blog/rich-content/"
+                href="https://paonews.netlify.app/fr/blog/rich-content/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/tags/privacy/</loc>
+    <loc>https://paonews.netlify.app/fr/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/privacy/"
+                href="https://paonews.netlify.app/tags/privacy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/privacy/"
+                href="https://paonews.netlify.app/fr/tags/privacy/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/tags/shortcodes/</loc>
+    <loc>https://paonews.netlify.app/fr/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/shortcodes/"
+                href="https://paonews.netlify.app/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/shortcodes/"
+                href="https://paonews.netlify.app/fr/tags/shortcodes/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/tags/emoji/</loc>
+    <loc>https://paonews.netlify.app/fr/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/emoji/"
+                href="https://paonews.netlify.app/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/emoji/"
+                href="https://paonews.netlify.app/fr/tags/emoji/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/blog/emoji-support/</loc>
+    <loc>https://paonews.netlify.app/fr/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/blog/emoji-support/"
+                href="https://paonews.netlify.app/blog/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/blog/emoji-support/"
+                href="https://paonews.netlify.app/fr/blog/emoji-support/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/about/</loc>
+    <loc>https://paonews.netlify.app/fr/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="https://paonews.netlify.app/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/about/"
+                href="https://paonews.netlify.app/pl/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/about/"
+                href="https://paonews.netlify.app/pt/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/about/"
+                href="https://paonews.netlify.app/fr/about/"
                 />
   </url>
   
