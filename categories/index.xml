@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Pao News</title>
+    <link>https://example.com/categories/</link>
+    <description>Recent content in Categories on Pao News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>technology</title>
+      <link>https://example.com/categories/technology/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>consume</title>
+      <link>https://example.com/categories/consume/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/consume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travel</title>
+      <link>https://example.com/categories/travel/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax</title>
+      <link>https://example.com/categories/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://example.com/categories/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/categories/themes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
