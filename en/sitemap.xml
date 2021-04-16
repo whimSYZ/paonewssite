@@ -5,16 +5,6 @@
   <url>
     <loc>https://paonews.netlify.app/blog/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://paonews.netlify.app/fr/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paonews.netlify.app/blog/"
-                />
   </url>
   
   <url>
@@ -70,6 +60,11 @@
                 hreflang="en"
                 href="https://paonews.netlify.app/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://paonews.netlify.app/tags/local/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -133,123 +128,13 @@
   </url>
   
   <url>
-    <loc>https://paonews.netlify.app/categories/technology/</loc>
+    <loc>https://paonews.netlify.app/categories/social/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://paonews.netlify.app/blog/story-6/</loc>
-    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://paonews.netlify.app/blog/story-3/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://paonews.netlify.app/blog/story-2/</loc>
-    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://paonews.netlify.app/blog/story-5/</loc>
-    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://paonews.netlify.app/categories/consume/</loc>
-    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://paonews.netlify.app/blog/story-1/</loc>
-    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://paonews.netlify.app/categories/travel/</loc>
-    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://paonews.netlify.app/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://paonews.netlify.app/fr/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paonews.netlify.app/tags/css/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paonews.netlify.app/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://paonews.netlify.app/fr/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paonews.netlify.app/tags/html/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paonews.netlify.app/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://paonews.netlify.app/fr/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paonews.netlify.app/tags/markdown/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paonews.netlify.app/blog/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://paonews.netlify.app/fr/blog/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paonews.netlify.app/blog/markdown-syntax/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paonews.netlify.app/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://paonews.netlify.app/fr/categories/syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paonews.netlify.app/categories/syntax/"
-                />
-  </url>
-  
-  <url>
     <loc>https://paonews.netlify.app/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -303,118 +188,93 @@
   </url>
   
   <url>
+    <loc>https://paonews.netlify.app/categories/technology/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paonews.netlify.app/categories/education/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paonews.netlify.app/blog/story-6/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paonews.netlify.app/categories/politics/</loc>
+    <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paonews.netlify.app/blog/story-3/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paonews.netlify.app/categories/economy/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paonews.netlify.app/blog/story-2/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paonews.netlify.app/blog/story-5/</loc>
+    <lastmod>2020-11-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paonews.netlify.app/blog/story-1/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paonews.netlify.app/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paonews.netlify.app/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paonews.netlify.app/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paonews.netlify.app/blog/markdown-syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paonews.netlify.app/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://paonews.netlify.app/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://paonews.netlify.app/fr/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paonews.netlify.app/tags/themes/"
-                />
   </url>
   
   <url>
     <loc>https://paonews.netlify.app/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://paonews.netlify.app/fr/categories/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paonews.netlify.app/categories/themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paonews.netlify.app/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://paonews.netlify.app/fr/tags/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paonews.netlify.app/tags/privacy/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paonews.netlify.app/blog/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://paonews.netlify.app/fr/blog/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paonews.netlify.app/blog/rich-content/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paonews.netlify.app/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://paonews.netlify.app/fr/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paonews.netlify.app/tags/shortcodes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://paonews.netlify.app/blog/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://paonews.netlify.app/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://paonews.netlify.app/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://paonews.netlify.app/fr/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paonews.netlify.app/tags/emoji/"
-                />
   </url>
   
   <url>
     <loc>https://paonews.netlify.app/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://paonews.netlify.app/fr/blog/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://paonews.netlify.app/blog/emoji-support/"
-                />
   </url>
   
   <url>

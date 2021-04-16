@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>social</title>
+      <link>https://paonews.netlify.app/categories/social/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://paonews.netlify.app/categories/social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>technology</title>
       <link>https://paonews.netlify.app/categories/technology/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
@@ -21,20 +30,29 @@
     </item>
     
     <item>
-      <title>consume</title>
-      <link>https://paonews.netlify.app/categories/consume/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <title>education</title>
+      <link>https://paonews.netlify.app/categories/education/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://paonews.netlify.app/categories/consume/</guid>
+      <guid>https://paonews.netlify.app/categories/education/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>travel</title>
-      <link>https://paonews.netlify.app/categories/travel/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <title>politics</title>
+      <link>https://paonews.netlify.app/categories/politics/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://paonews.netlify.app/categories/travel/</guid>
+      <guid>https://paonews.netlify.app/categories/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>economy</title>
+      <link>https://paonews.netlify.app/categories/economy/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://paonews.netlify.app/categories/economy/</guid>
       <description></description>
     </item>
     

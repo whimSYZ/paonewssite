@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>education on Pao News</title>
+    <link>https://paonews.netlify.app/categories/education/</link>
+    <description>Recent content in education on Pao News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 27 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://paonews.netlify.app/categories/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Is Physical Fitness test too much?</title>
+      <link>https://paonews.netlify.app/blog/story-6/</link>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://paonews.netlify.app/blog/story-6/</guid>
+      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 6/Video/Story 6 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);   Beijing, China&amp;ndash;In October 2020, all students from 2017 to 2020 of Communication University of China will receive the physical fitness test. The test consists of seven events: 800/1,000-meter-long run, standing long jump, pull-up/sit-up, sit and reach,50-meter sprint, height and weight (BMI), and vital capacity. The total score on the test is made up of the individual item scores weighted together.</description>
+    </item>
+    
+  </channel>
+</rss>
