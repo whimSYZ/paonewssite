@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Long way</title>
+      <title>Beijing subway traffic</title>
       <link>https://paonews.netlify.app/blog/story-4/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://paonews.netlify.app/blog/story-4/</guid>
-      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 4/Video/Story 4 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);   The subway is an important part of urban rail transit in Beijing. And also, it’s the first choice for most people to travel. However, the transfer between Line Batong and Line One always brings about a lot of unnecessary trouble, especially during the peak traffic time.</description>
+      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 4/Video/Story 4 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);    The subway is an important part of urban rail transit in Beijing. And also, it’s the first choice for most people to travel. However, the transfer between Line Batong and Line One always brings about a lot of unnecessary trouble, especially during the peak traffic time.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://paonews.netlify.app/blog/story-3/</guid>
-      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 3/Video/Story 3 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);   At 6 a.m., in the Olympic Forest Park in Beijing, China, volunteers from “He Yajun Blind People Helping Organization” begin to guide blind people to run.
+      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 3/Video/Story 3 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);    At 6 a.m., in the Olympic Forest Park in Beijing, China, volunteers from “He Yajun Blind People Helping Organization” begin to guide blind people to run.
  “He Yajun Blind People Helping Organization” is a non-profit public service organization which is founded by a blind man named ‘He Yajun’ in 2015.</description>
     </item>
     

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://paonews.netlify.app/blog/story-4/</loc>
+    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://paonews.netlify.app/blog/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url>
@@ -64,11 +69,6 @@
   
   <url>
     <loc>https://paonews.netlify.app/tags/local/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://paonews.netlify.app/blog/story-4/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url>
   

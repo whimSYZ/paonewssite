@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Long way</title>
+      <title>Beijing subway traffic</title>
       <link>https://paonews.netlify.app/blog/story-4/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://paonews.netlify.app/blog/story-4/</guid>
-      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 4/Video/Story 4 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);   The subway is an important part of urban rail transit in Beijing. And also, it’s the first choice for most people to travel. However, the transfer between Line Batong and Line One always brings about a lot of unnecessary trouble, especially during the peak traffic time.</description>
+      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 4/Video/Story 4 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);    The subway is an important part of urban rail transit in Beijing. And also, it’s the first choice for most people to travel. However, the transfer between Line Batong and Line One always brings about a lot of unnecessary trouble, especially during the peak traffic time.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://paonews.netlify.app/blog/story-6/</guid>
-      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 6/Video/Story 6 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);   Beijing, China&amp;ndash;In October 2020, all students from 2017 to 2020 of Communication University of China will receive the physical fitness test. The test consists of seven events: 800/1,000-meter-long run, standing long jump, pull-up/sit-up, sit and reach,50-meter sprint, height and weight (BMI), and vital capacity. The total score on the test is made up of the individual item scores weighted together.</description>
+      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 6/Video/Story 6 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);    Beijing, China&amp;ndash;In October 2020, all students from 2017 to 2020 of Communication University of China will receive the physical fitness test. The test consists of seven events: 800/1,000-meter-long run, standing long jump, pull-up/sit-up, sit and reach,50-meter sprint, height and weight (BMI), and vital capacity.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://paonews.netlify.app/blog/story-3/</guid>
-      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 3/Video/Story 3 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);   At 6 a.m., in the Olympic Forest Park in Beijing, China, volunteers from “He Yajun Blind People Helping Organization” begin to guide blind people to run.
+      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 3/Video/Story 3 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);    At 6 a.m., in the Olympic Forest Park in Beijing, China, volunteers from “He Yajun Blind People Helping Organization” begin to guide blind people to run.
  “He Yajun Blind People Helping Organization” is a non-profit public service organization which is founded by a blind man named ‘He Yajun’ in 2015.</description>
     </item>
     
@@ -45,7 +45,7 @@
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://paonews.netlify.app/blog/story-2/</guid>
-      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 2/Video/Story 2 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);   In addition to the huge harm to people’s health, the 2019 novel coronavirus epidemic also has an enormous impact on the economy. Located on the Beijing Third Ring Road, Panjiayuan Flea Market has lost much foot traffic due to the epidemic, forcing many vendors to withdraw from the market and find other ways to earn a living.</description>
+      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 2/Video/Story 2 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);    In addition to the huge harm to people’s health, the 2019 novel coronavirus epidemic also has an enormous impact on the economy. Located on the Beijing Third Ring Road, Panjiayuan Flea Market has lost much foot traffic due to the epidemic, forcing many vendors to withdraw from the market and find other ways to earn a living.</description>
     </item>
     
     <item>
@@ -54,7 +54,7 @@
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://paonews.netlify.app/blog/story-1/</guid>
-      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 1/Video/Story 1 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);   At the end of this year, the time-honored Dong’an Department Store located on Wangfujing Street will close temporarily for upgrading into a fashion selected shop with fashion theme blocks.
+      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 1/Video/Story 1 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);    At the end of this year, the time-honored Dong’an Department Store located on Wangfujing Street will close temporarily for upgrading into a fashion selected shop with fashion theme blocks.
  The Dong’an Department Store, which was built in 1903, has a history of more than 100 years.</description>
     </item>
     

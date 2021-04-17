@@ -17,7 +17,7 @@
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://paonews.netlify.app/blog/story-2/</guid>
-      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 2/Video/Story 2 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);   In addition to the huge harm to people’s health, the 2019 novel coronavirus epidemic also has an enormous impact on the economy. Located on the Beijing Third Ring Road, Panjiayuan Flea Market has lost much foot traffic due to the epidemic, forcing many vendors to withdraw from the market and find other ways to earn a living.</description>
+      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 2/Video/Story 2 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);    In addition to the huge harm to people’s health, the 2019 novel coronavirus epidemic also has an enormous impact on the economy. Located on the Beijing Third Ring Road, Panjiayuan Flea Market has lost much foot traffic due to the epidemic, forcing many vendors to withdraw from the market and find other ways to earn a living.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://paonews.netlify.app/blog/story-1/</guid>
-      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 1/Video/Story 1 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);   At the end of this year, the time-honored Dong’an Department Store located on Wangfujing Street will close temporarily for upgrading into a fashion selected shop with fashion theme blocks.
+      <description>var playerElement = document.getElementById(&#34;player-wrapper&#34;); var player = new Clappr.Player({ source: &#34;/Story 1/Video/Story 1 Video.mp4&#34;, height: 360, width: 640, }); player.attachTo(playerElement);    At the end of this year, the time-honored Dong’an Department Store located on Wangfujing Street will close temporarily for upgrading into a fashion selected shop with fashion theme blocks.
  The Dong’an Department Store, which was built in 1903, has a history of more than 100 years.</description>
     </item>
     
